@@ -1,5 +1,3 @@
-[![Jorge Bustamante](https://i.postimg.cc/J40zqGHK/Whats-App-Image-2025-05-26-at-22-31-51.jpg)](https://jobustamante.dev/)
-
 ## Hey, I'm Jorge!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jorge%20Bustamante-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jobustamantedev/)](https://www.linkedin.com/in/jobustamantedev/)
