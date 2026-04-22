@@ -16,7 +16,7 @@ I'm a Software Engineer from **Bogotá, Colombia** passionate about creating ele
 
 ---
 
-## 💼 Experience Timeline
+## 💼 Experience
 
 ### **Mercado Libre Colombia**
 #### Software Engineer
@@ -37,14 +37,6 @@ I'm a Software Engineer from **Bogotá, Colombia** passionate about creating ele
 - Maintenance of financial software for cooperatives and employee funds
 - System stability and functionality management across Colombia
 - **Tech:** JavaScript, C#, Vue.js, MySQL
-
----
-
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jobustamantedev&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jobustamantedev&layout=compact&theme=dark&hide_border=true)](https://github.com/jobustamantedev)
 
 ---
 
